@@ -9,7 +9,7 @@ Quick instruction:
 git clone https://github.com/caijishuati/brickmover.git
 git add file
 git commit -m "aaaa" file
-git push # at repository top
+git push -u origin master # at repository top
 
 ====================== Questions =====================
 1: merge_intervals
